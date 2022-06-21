@@ -20,6 +20,13 @@ main{
 main div{
   padding: 4em;
 }
+nav{
+    text-align: center;
+}
+a{
+    color: rgb(25, 24, 25);
+    text-decoration: none;
+}
 .item1{
   background-color: blueviolet;
   padding: 8em;
